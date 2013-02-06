@@ -8,3 +8,5 @@
 /.lein-deps-sum
 autodoc/**
 /target
+.idea
+*.iml
